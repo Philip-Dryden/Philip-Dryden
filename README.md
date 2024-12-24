@@ -9,7 +9,7 @@ In meiner Freizeit befasse ich mich zusätzlich mit Webentwicklung, Git, Docker 
 ## Aktuelle Lernprojekte: 
 - The Odin Project - Interaktiver Onlinekurs für Webentwicklung (HTML, CSS, Javascript)
 - Udemy-Videokurse - Git, Docker
-- Ein kleines Rollenspiel (RPG) in Java, um objektorientierte Programmierung zu üben
+- Ein kleines Rollenspiel (rpg) in Java, um objektorientierte Programmierung zu üben
 
 ### Pläne für die nahe Zukunft
 - Eine kleine, interaktive Website über Github Pages
