@@ -1,19 +1,10 @@
 # Kurze Vorstellung:
 
-Seit Januar 2024 mache ich eine Umschulung zum Fachinformatiker für Anwendungsentwicklung.
-
-Derzeit beschäftigen wir uns mit Programmierung in Java und Software Engineering.
-
-In meiner Freizeit befasse ich mich zusätzlich mit Webentwicklung, Git, Docker und der Linux Shell.
+Ende Januar habe ich meine Ausbildung zum Fachinformatiker für Anwendungsentwicklung abgeschlossen.
+Derzeit bin ich auf Arbeitssuche als Softwareentwickler.
 
 ## Aktuelle Lernprojekte: 
-- The Odin Project - Interaktiver Onlinekurs für Webentwicklung (HTML, CSS, Javascript)
-- Udemy-Videokurse - Git, Docker
-- Ein kleines Rollenspiel (rpg) in Java, um objektorientierte Programmierung zu üben
-
-### Pläne für die nahe Zukunft
-- Eine kleine, interaktive Website über Github Pages
-- Ein Mastermind-Klon in Javascript
+ - Ein kleines konsolenbasiertes Rollenspiel in C++, um Erfahrung mit datenorientierter Programmierung zu sammeln.
 
 
 
